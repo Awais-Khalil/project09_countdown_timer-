@@ -1,0 +1,17 @@
+{
+  "name": "@awais-khalil/project09_countdown_timer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "awais_countdown_timer": "index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
